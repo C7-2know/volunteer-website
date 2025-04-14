@@ -1,0 +1,7 @@
+#  ignore frontend build files
+
+**/node_modules/
+**/package-lock.json
+
+#  .env file
+**/.env
